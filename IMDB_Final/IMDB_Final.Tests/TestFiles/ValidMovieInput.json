@@ -1,0 +1,71 @@
+[
+  {
+    "Id": 1,
+    "Name": "Shwashank Redemption",
+    "Plot": "Two Imprisoned",
+    "Year": 1994,
+    "Actors": [
+      {
+        "Id": 13,
+        "Name": "Morgan Freeman",
+        "DateOfBirth": "1975-04-23"
+      },
+      {
+        "Id": 14,
+        "Name": "Tim Robbins",
+        "DateOfBirth": "1975-04-23"
+      }
+    ],
+    "Producer": {
+      "Id": 13,
+      "Name": "Frank Darabont",
+      "DateOfBirth": "1975-02-13"
+    }
+  },
+  {
+    "Id": 2,
+    "Name": "The Conjuring",
+    "Plot": "Horror house",
+    "Year": 2013,
+    "Actors": [
+      {
+        "Id": 15,
+        "Name": "Patrick Wilson",
+        "DateOfBirth": "1993-05-05"
+      },
+      {
+        "Id": 16,
+        "Name": "Vera Fermiga",
+        "DateOfBirth": "1993-07-05"
+      }
+    ],
+    "Producer": {
+      "Id": 14,
+      "Name": "James Wan",
+      "DateOfBirth": "1986-08-21"
+    }
+  },
+  {
+    "Id": 3,
+    "Name": "Avatar",
+    "Plot": "Aliens in a planet",
+    "Year": 2008,
+    "Actors": [
+      {
+        "Id": 3,
+        "Name": "Zoe Saldana",
+        "DateOfBirth": "1970-12-03"
+      },
+      {
+        "Id": 4,
+        "Name": "Sam Worthington",
+        "DateOfBirth": "1970-12-03"
+      }
+    ],
+    "Producer": {
+      "Id": 2,
+      "Name": "James Cameron",
+      "DateOfBirth": "1982-01-15"
+    }
+  }
+]

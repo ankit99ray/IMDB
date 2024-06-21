@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 2,
+    "Name": "The Conjuring",
+    "Plot": "Horror house",
+    "Year": 2013,
+    "Actors": [
+      {
+        "Id": 15,
+        "Name": "Patrick Wilson",
+        "DateOfBirth": "1993-05-05"
+      },
+      {
+        "Id": 16,
+        "Name": "Vera Fermiga",
+        "DateOfBirth": "1993-07-05"
+      }
+    ],
+    "Producer": {
+      "Id": 14,
+      "Name": "James Wan",
+      "DateOfBirth": "1986-08-21"
+    }
+  }
+]
+

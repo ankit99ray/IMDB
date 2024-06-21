@@ -1,0 +1,34 @@
+D:\C#\IMDB_Final\IMDB.Services\bin\Debug\net8.0\IMDB.Services.deps.json
+D:\C#\IMDB_Final\IMDB.Services\bin\Debug\net8.0\IMDB.Services.dll
+D:\C#\IMDB_Final\IMDB.Services\bin\Debug\net8.0\IMDB.Services.pdb
+D:\C#\IMDB_Final\IMDB.Services\bin\Debug\net8.0\IMDB.Domain.dll
+D:\C#\IMDB_Final\IMDB.Services\bin\Debug\net8.0\IMDB.Repository.dll
+D:\C#\IMDB_Final\IMDB.Services\bin\Debug\net8.0\IMDB.Repository.pdb
+D:\C#\IMDB_Final\IMDB.Services\bin\Debug\net8.0\IMDB.Domain.pdb
+D:\C#\IMDB_Final\IMDB.Services\obj\Debug\net8.0\IMDB.Services.csproj.AssemblyReference.cache
+D:\C#\IMDB_Final\IMDB.Services\obj\Debug\net8.0\IMDB.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\IMDB_Final\IMDB.Services\obj\Debug\net8.0\IMDB.Services.AssemblyInfoInputs.cache
+D:\C#\IMDB_Final\IMDB.Services\obj\Debug\net8.0\IMDB.Services.AssemblyInfo.cs
+D:\C#\IMDB_Final\IMDB.Services\obj\Debug\net8.0\IMDB.Services.csproj.CoreCompileInputs.cache
+D:\C#\IMDB_Final\IMDB.Services\obj\Debug\net8.0\IMDB.Services.csproj.CopyComplete
+D:\C#\IMDB_Final\IMDB.Services\obj\Debug\net8.0\IMDB.Services.dll
+D:\C#\IMDB_Final\IMDB.Services\obj\Debug\net8.0\refint\IMDB.Services.dll
+D:\C#\IMDB_Final\IMDB.Services\obj\Debug\net8.0\IMDB.Services.pdb
+D:\C#\IMDB_Final\IMDB.Services\obj\Debug\net8.0\ref\IMDB.Services.dll
+D:\DeltaX Bootcamp 2024\C#\IMDB_Final\IMDB.Services\bin\Debug\net8.0\IMDB.Services.deps.json
+D:\DeltaX Bootcamp 2024\C#\IMDB_Final\IMDB.Services\bin\Debug\net8.0\IMDB.Services.dll
+D:\DeltaX Bootcamp 2024\C#\IMDB_Final\IMDB.Services\bin\Debug\net8.0\IMDB.Services.pdb
+D:\DeltaX Bootcamp 2024\C#\IMDB_Final\IMDB.Services\bin\Debug\net8.0\IMDB.Domain.dll
+D:\DeltaX Bootcamp 2024\C#\IMDB_Final\IMDB.Services\bin\Debug\net8.0\IMDB.Repository.dll
+D:\DeltaX Bootcamp 2024\C#\IMDB_Final\IMDB.Services\bin\Debug\net8.0\IMDB.Repository.pdb
+D:\DeltaX Bootcamp 2024\C#\IMDB_Final\IMDB.Services\bin\Debug\net8.0\IMDB.Domain.pdb
+D:\DeltaX Bootcamp 2024\C#\IMDB_Final\IMDB.Services\obj\Debug\net8.0\IMDB.Services.csproj.AssemblyReference.cache
+D:\DeltaX Bootcamp 2024\C#\IMDB_Final\IMDB.Services\obj\Debug\net8.0\IMDB.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\DeltaX Bootcamp 2024\C#\IMDB_Final\IMDB.Services\obj\Debug\net8.0\IMDB.Services.AssemblyInfoInputs.cache
+D:\DeltaX Bootcamp 2024\C#\IMDB_Final\IMDB.Services\obj\Debug\net8.0\IMDB.Services.AssemblyInfo.cs
+D:\DeltaX Bootcamp 2024\C#\IMDB_Final\IMDB.Services\obj\Debug\net8.0\IMDB.Services.csproj.CoreCompileInputs.cache
+D:\DeltaX Bootcamp 2024\C#\IMDB_Final\IMDB.Services\obj\Debug\net8.0\IMDB.Services.csproj.CopyComplete
+D:\DeltaX Bootcamp 2024\C#\IMDB_Final\IMDB.Services\obj\Debug\net8.0\IMDB.Services.dll
+D:\DeltaX Bootcamp 2024\C#\IMDB_Final\IMDB.Services\obj\Debug\net8.0\refint\IMDB.Services.dll
+D:\DeltaX Bootcamp 2024\C#\IMDB_Final\IMDB.Services\obj\Debug\net8.0\IMDB.Services.pdb
+D:\DeltaX Bootcamp 2024\C#\IMDB_Final\IMDB.Services\obj\Debug\net8.0\ref\IMDB.Services.dll

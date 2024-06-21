@@ -1,0 +1,62 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "IMDB_Final/1.0.0": {
+        "dependencies": {
+          "IMDB.Services": "1.0.0"
+        },
+        "runtime": {
+          "IMDB_Final.dll": {}
+        }
+      },
+      "IMDB.Domain/1.0.0": {
+        "runtime": {
+          "IMDB.Domain.dll": {}
+        }
+      },
+      "IMDB.Repository/1.0.0": {
+        "dependencies": {
+          "IMDB.Domain": "1.0.0"
+        },
+        "runtime": {
+          "IMDB.Repository.dll": {}
+        }
+      },
+      "IMDB.Services/1.0.0": {
+        "dependencies": {
+          "IMDB.Repository": "1.0.0"
+        },
+        "runtime": {
+          "IMDB.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IMDB_Final/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IMDB.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IMDB.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IMDB.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
