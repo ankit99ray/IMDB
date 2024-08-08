@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "reviewMessage": "Review 1",
+    "movieId": 1
+  },
+  {
+    "id": 3,
+    "reviewMessage": "Review 3",
+    "movieId": 1
+  }
+]

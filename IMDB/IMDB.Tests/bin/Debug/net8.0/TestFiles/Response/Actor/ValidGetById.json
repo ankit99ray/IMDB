@@ -1,0 +1,7 @@
+{
+  "id": 1,
+  "name": "Actor1",
+  "gender": "Male",
+  "dateOfBirth": "1998-11-14T00:00:00",
+  "bio": "Bio of Actor 1"
+}

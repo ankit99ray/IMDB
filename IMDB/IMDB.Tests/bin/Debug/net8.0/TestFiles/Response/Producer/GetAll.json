@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Producer1",
+    "gender": "Male",
+    "dateOfBirth": "1998-11-14T00:00:00",
+    "bio": "Bio of Producer 1"
+  },
+  {
+    "id": 2,
+    "name": "Producer2",
+    "gender": "Female",
+    "dateOfBirth": "1998-11-12T00:00:00",
+    "bio": "Bio of Producer 2"
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "Name": "",
+  "YearOfRelease": 1998,
+  "Plot": "test plot",
+  "PosterURL": "i.com/poster3",
+  "ProducerId": 1,
+  "ActorIds": [ 1, 2 ],
+  "GenreIds": [ 1 ]
+}
